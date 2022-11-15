@@ -20,22 +20,3 @@ The project deals on building an application which helps the specially challenge
 
 
 
-1.]IDEATION PHASES LINKS
-
-Empathy Map Link : https://app.mural.co/invitation/mural/panimalarinstituteoftechnolo2256/1664036072656?sender=u38b9c45774d1e6b8469d8757&key=a2ed6e8b-5d40-4d7d-a15b-d78263ff307b
-
-BrainStorm  :  https://drive.google.com/file/d/1jbt1OlgoqiP69i_1B3QQXeQURbw5QM-K/view?usp=sharing
-
-Literature Survey  :  https://drive.google.com/file/d/18G6AShMWY77LYXrzw13oVgRBzBCwLpbG/view?usp=sharing
-
-Problem Statement  :  https://docs.google.com/document/d/1vhOzoE6fgulTfE1v4R4gcOlyja4Q6u6P/edit?usp=sharing&ouid=103825734771219862800&rtpof=true&sd=true
-
-2.]ASSESMENTS LINKS
-
-WEEK 1 ASSESMENT : https://colab.research.google.com/drive/1UiFmt0W5qu2jcRQ7Pt29X9sBbC3BUqHc?usp=sharing
-
-WEEK 2 ASSESMENT : https://drive.google.com/file/d/14I_pkuCwP-0K8GyNdTU2i-1gKh5UC13q/view?usp=sharing
-
-WEEK 3 ASSESMENT : https://colab.research.google.com/drive/1njprNZk1iJPNFSAB5kHlLyc7qeUPjSZj?usp=sharing
-
-WEEK 4 ASSESMENT : https://colab.research.google.com/drive/1BnypRshKVuiEaFm76bMvIL0kkrIeCBUp?usp=sharing
